@@ -1,284 +1,183 @@
-<!-- ========================= HEADER ========================= -->
+<div align="center">
 
-![Pawan Chouhan](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,50:1e40af,100:2563eb\&height=200\&section=header\&text=Pawan%20Chouhan\&fontSize=46\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=160&section=header&text=PAWAN%20CHOUHAN&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=28" width="100%"/>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Real-World+Applications;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=const+dev+%3D+%22Pawan+Chouhan%22%3B;role%3A+Full+Stack+Developer;stack%3A+React+%7C+Next.js+%7C+Node.js;status%3A+Building+production+SaaS+%F0%9F%9A%80" />
 
-<p align="center">
-  <a href="https://github.com/Pawan-Chouhan">
-    <img src="https://komarev.com/ghpvc/?username=Pawan-Chouhan&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Pawan-Chouhan?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pawan-Chouhan?label=Followers&style=flat&color=2563eb" alt="Followers" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-2563eb?style=flat" alt="Open to Opportunities" />
-</p>
+</div>
 
----
+<br/>
 
-# 👋 About Me
-
-Hi, I'm **Pawan Chouhan**, a **3rd-year B.Tech Information Technology student** and **Full Stack Web Developer** from **Ratlam, Madhya Pradesh, India**.
-
-I enjoy building **real-world web applications, SaaS platforms, dashboards and business management systems** using modern web technologies.
-
-Currently working at **Karmyug Techzone** as **Founder’s Office & Full Stack Developer**, where I work on production applications and business workflows.
-
-* 🎓 **B.Tech IT** — Expected 2028
-* 💼 **Founder’s Office & Full Stack Developer**
-* 📍 **Ratlam, Madhya Pradesh, India**
-* 🌱 Currently learning **Advanced Backend, Automation, n8n & Generative AI**
-* 💡 Interested in **SaaS, automation, real-time systems & AI-powered applications**
-
----
-
-# 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
-</p>
-
-### Also Working With
-
-`REST APIs` • `JWT Authentication` • `Mongoose` • `Prisma` • `Shadcn/UI` • `Redux Toolkit` • `Google Maps API`
-
----
-
-# 🚀 Featured Projects
-
-## 🏢 ValuXpert
-
-### Property Valuation SaaS Platform
-
-A multi-company SaaS platform designed for **banks and financial institutions** to manage property valuation workflows.
-
-### Highlights
-
-* 📋 Case creation & management
-* 👨‍💻 Field Engineer assignment
-* 🏠 Property visit workflow
-* 📍 GPS & travel tracking
-* 🗺️ Google Maps integration
-* 📊 Reports & approval workflow
-* 🧾 Invoice management
-* 👥 Role-based access
-* 🏢 Multi-company architecture
-* 💰 HRMS & payroll workflows
-
-**Tech Stack**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Google Maps` `REST APIs`
-
----
-
-## 🏗️ Crane HRMS
-
-### Employee & Workforce Management System
-
-A production HRMS built for **crane-service operations** to manage employees, attendance, payroll and workforce processes.
-
-### Highlights
-
-* 👨‍💼 Employee Management
-* ⏱️ Attendance
-* 📍 Punch In / Punch Out
-* 💰 Payroll
-* 💵 Advance & Expense Management
-* ⛽ Diesel / DEF Fuel Management
-* 👥 Roles & Departments
-* 📊 Dashboard & Reports
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `Tailwind CSS` `Shadcn/UI`
-
-🔗 **Live Project:** https://richi-crane.vercel.app/
-
----
-
-## 🔎 Just Search
-
-### Local Business Discovery Platform
-
-A MERN-stack application for discovering and managing local businesses based on location and categories.
-
-### Highlights
-
-* 📍 Location-based discovery
-* 🔎 Business search
-* 🏪 Business registration
-* 👤 Authentication
-* 🔐 JWT & bcrypt
-* 🗺️ Location integration
-* 📱 Responsive interface
-
-**Tech Stack**
-
-`React.js` `Vite` `Node.js` `Express.js` `MongoDB` `JWT`
-
-🔗 **Frontend:** https://just-search-frontend.vercel.app/
-
-🔗 **Backend:** https://just-search-backend.onrender.com/
-
----
-
-# 💼 Experience
-
-## Karmyug Techzone
-
-**Founder’s Office & Full Stack Developer**
-
-Working on real-world production applications across frontend, backend and business logic.
-
-### Responsibilities
-
-* ⚛️ React.js & Next.js development
-* 🟢 Node.js & Express.js APIs
-* 🗄️ MongoDB & PostgreSQL
-* 🔐 Authentication & authorization
-* 📊 Dashboard development
-* 🏢 SaaS & business applications
-* 📍 GPS & location-based features
-* 🧾 Business workflows
-* 🐛 Debugging & production issue fixing
-* 🔄 API & database integration
-
----
-
-# 🎓 Education
-
-### B.Tech — Information Technology
-
-**Srajan Institute of Technology and Management Science, Ratlam**
-
-📅 **Expected Graduation:** 2028
-
----
-
-# 🌱 Currently Learning
-
-```text
-Full Stack Development
-        ↓
-Advanced Backend Development
-        ↓
-System Design
-        ↓
-Automation & n8n
-        ↓
-AI APIs
-        ↓
-Generative AI
-        ↓
-AI-Powered Applications
+```yaml
+whoami:
+  name: Pawan Chouhan
+  role: Founder's Office & Full Stack Developer @ Karmyug Techzone
+  education: B.Tech Information Technology (2028) — Srajan Institute, Ratlam
+  location: Ratlam, Madhya Pradesh, India
+  focus: SaaS · Automation · Real-time Systems · AI-powered Apps
+  currently_learning: [System Design, n8n Automation, Generative AI]
 ```
 
----
+<div align="center">
 
-# 📊 GitHub Stats
+![Views](https://komarev.com/ghpvc/?username=Pawan-Chouhan&label=Profile+Views&color=22D3EE&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Pawan-Chouhan?label=Followers&style=flat-square&color=22D3EE)
+![Status](https://img.shields.io/badge/status-open_to_opportunities-22D3EE?style=flat-square)
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pawan-Chouhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Chouhan&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Chouhan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
----
+## `01` Tech Stack
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pawan-Chouhan&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+</div>
 
-# 📈 Contribution Activity
+`Also using:` REST APIs · JWT Authentication · Mongoose · Shadcn/UI · Redux Toolkit · Google Maps API
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan-Chouhan&theme=react-dark&hide_border=true" />
-</p>
+<br/>
 
----
+## `02` Projects
 
-# 🤝 Connect With Me
+<details open>
+<summary><b>🏢 ValuXpert — Property Valuation SaaS</b></summary>
+<br/>
 
-<p align="center">
+> Multi-company SaaS for banks & financial institutions to run property valuation workflows — case intake → field visit → report → approval.
 
-<a href="mailto:pawanchouhan3101@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
-</a>
-&nbsp;&nbsp;
+```diff
++ Case creation & management
++ Field engineer assignment + visit workflow
++ GPS / travel tracking via Google Maps
++ Reports & multi-level approval flow
++ Invoicing, role-based access, multi-company support
++ Built-in HRMS & payroll
+```
 
-<a href="https://linkedin.com/in/pawan-chouhan">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
+`Stack:` React.js · Node.js · Express.js · MongoDB · Google Maps API
 
-<a href="https://github.com/Pawan-Chouhan">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
+</details>
 
-<a href="https://instagram.com/pawan_chouhan">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
-</a>
+<details>
+<summary><b>🏗️ Crane HRMS — Workforce Management System</b></summary>
+<br/>
 
-</p>
+> Production HRMS for crane-service operations — attendance, payroll, advances, and fuel tracking in one system.
 
-<p align="center">
+```diff
++ Employee management & role/department structure
++ Punch in / punch out attendance
++ Automated payroll
++ Advance & expense management
++ Diesel / DEF fuel tracking
++ Dashboard & reports
+```
 
-📧 <b>[pawanchouhan3101@gmail.com](mailto:pawanchouhan3101@gmail.com)</b>
-📍 <b>Ratlam, Madhya Pradesh, India</b>
+`Stack:` Next.js · TypeScript · Prisma · PostgreSQL · Supabase · Tailwind CSS · Shadcn/UI
+`Live:` [richi-crane.vercel.app](https://richi-crane.vercel.app/)
 
-</p>
+</details>
 
----
+<details>
+<summary><b>🔎 Just Search — Local Business Discovery</b></summary>
+<br/>
 
-# ⚡ Quick Facts
+> MERN-stack platform to discover and register local businesses by location and category.
 
-|                 |                                         |
-| --------------- | --------------------------------------- |
-| 👨‍💻 Role      | Full Stack Web Developer                |
-| 🎓 Education    | B.Tech IT                               |
-| 📅 Graduation   | 2028                                    |
-| 💼 Current Role | Founder’s Office & Full Stack Developer |
-| ⚛️ Frontend     | React.js, Next.js                       |
-| 🟢 Backend      | Node.js, Express.js                     |
-| 🗄️ Database    | MongoDB, PostgreSQL                     |
-| 🔐 Auth         | JWT                                     |
-| 🗺️ Other       | Google Maps, REST APIs                  |
-| 🌱 Learning     | Automation, n8n, Generative AI          |
+```diff
++ Location-based business discovery
++ Business registration & auth (JWT + bcrypt)
++ Responsive, mobile-first UI
+```
 
----
+`Stack:` React.js · Vite · Node.js · Express.js · MongoDB · JWT
+`Frontend:` [just-search-frontend.vercel.app](https://just-search-frontend.vercel.app/) · `Backend:` [just-search-backend.onrender.com](https://just-search-backend.onrender.com/)
 
-<p align="center">
+</details>
 
-### 🚀 Build • Improve • Grow
+<br/>
 
-<i>Building real-world software, one project at a time.</i>
+## `03` Experience
 
-</p>
+**Karmyug Techzone** — *Founder's Office & Full Stack Developer*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
-</p>
+```js
+const responsibilities = [
+  "React.js & Next.js development",
+  "Node.js & Express.js APIs",
+  "MongoDB & PostgreSQL database design",
+  "Authentication & authorization systems",
+  "Dashboard & SaaS application architecture",
+  "GPS / location-based features",
+  "Business workflow implementation",
+  "Production debugging & issue resolution",
+];
+```
+
+<br/>
+
+## `04` Education
+
+```
+B.Tech — Information Technology
+Srajan Institute of Technology and Management Science, Ratlam
+Expected Graduation: 2028
+```
+
+<br/>
+
+## `05` GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Pawan-Chouhan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Chouhan&theme=github-dark-blue&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan-Chouhan&layout=compact&theme=github_dark&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pawan-Chouhan&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan-Chouhan&theme=github-compact&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## `06` Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pawanchouhan3101@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pawan-chouhan31)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pawan-Chouhan)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/pawan_chouhan)
+
+📍 Ratlam, Madhya Pradesh, India
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+> console.log("Build. Ship. Iterate.");
+```
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
