@@ -1,57 +1,36 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ========================= HEADER ========================= -->
 
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,50:1e40af,100:2563eb\&height=200\&section=header\&text=Pawan%20Chouhan\&fontSize=46\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35)
+![Pawan Chouhan](https://capsule-render.vercel.app/api?type=waving\&color=0:0f172a,50:1e40af,100:2563eb\&height=200\&section=header\&text=Pawan%20Chouhan\&fontSize=46\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35)
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;B.Tech+IT+Student;React.js+%7C+Next.js+%7C+Node.js;Building+Real-World+Software;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+Real-World+Applications;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 </h3>
 
 <p align="center">
   <a href="https://github.com/Pawan-Chouhan">
-    <img src="https://komarev.com/ghpvc/?username=Pawan-Chouhan&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Pawan-Chouhan&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/Pawan-Chouhan?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pawan-Chouhan?label=Followers&style=flat&color=2563eb" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Pawan-Chouhan?label=Followers&style=flat&color=2563eb" alt="Followers" />
   </a>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-2563eb?style=flat" alt="Open to Opportunities" />
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-Hi, I'm **Pawan Chouhan**, a **3rd-year B.Tech Information Technology student** and **Full Stack Web Developer** from Ratlam, Madhya Pradesh, India.
+Hi, I'm **Pawan Chouhan**, a **3rd-year B.Tech Information Technology student** and **Full Stack Web Developer** from **Ratlam, Madhya Pradesh, India**.
 
-I enjoy building practical software products that solve real-world problems — from **HRMS and employee management systems** to **property valuation platforms, live GPS tracking, invoices, payroll workflows, and local business discovery applications**.
+I enjoy building **real-world web applications, SaaS platforms, dashboards and business management systems** using modern web technologies.
 
-Currently, I work at **Karmyug Techzone** in the **Founder’s Office & Full Stack Development** role, where I work on real-world production applications and business workflows.
+Currently working at **Karmyug Techzone** as **Founder’s Office & Full Stack Developer**, where I work on production applications and business workflows.
 
-```text
-🎓 B.Tech Information Technology
-🏫 Srajan Institute of Technology and Management Science, Ratlam
-📅 Expected Graduation: 2028
-
-💻 Full Stack Web Developer
-🚀 Interested in scalable & production-ready applications
-🌱 Currently expanding my backend, automation & AI knowledge
-```
-
----
-
-## 💼 What I Do
-
-* 🚀 Build full-stack web applications
-* ⚛️ Develop responsive React.js & Next.js interfaces
-* 🔧 Build REST APIs using Node.js & Express.js
-* 🗄️ Work with MongoDB and Mongoose
-* 🔐 Implement authentication and authorization workflows
-* 👥 Build role-based access control systems
-* 📊 Develop dashboards and business management systems
-* 📍 Work with GPS, maps and location-based applications
-* 💰 Build payroll, invoice and financial workflows
-* 🏢 Work on multi-tenant SaaS applications
-* 🔄 Integrate frontend, backend and database workflows
-* 🧪 Test and debug production features
-* 🌱 Currently exploring automation, n8n and Generative AI
+* 🎓 **B.Tech IT** — Expected 2028
+* 💼 **Founder’s Office & Full Stack Developer**
+* 📍 **Ratlam, Madhya Pradesh, India**
+* 🌱 Currently learning **Advanced Backend, Automation, n8n & Generative AI**
+* 💡 Interested in **SaaS, automation, real-time systems & AI-powered applications**
 
 ---
 
@@ -63,136 +42,71 @@ Currently, I work at **Karmyug Techzone** in the **Founder’s Office & Full Sta
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-* React.js
-* Next.js
-* JavaScript (ES6+)
-* TypeScript
-* Tailwind CSS
-* Shadcn/UI
-* Responsive UI
-* Reusable Components
-* React Router
-* Redux Toolkit
-
-### Backend
+### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
 </p>
 
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-* Role-Based Authorization
-* API Integration
-* Server-side validation
-* Business Logic
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-* MongoDB
-* Mongoose
-* PostgreSQL
-* Database-driven applications
-* Multi-tenant data architecture
-
-### Tools & Platforms
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
 </p>
 
-* Git
-* GitHub
-* VS Code
-* Docker
-* Vercel
-* REST APIs
-* Google Maps APIs
+### Also Working With
+
+`REST APIs` • `JWT Authentication` • `Mongoose` • `Prisma` • `Shadcn/UI` • `Redux Toolkit` • `Google Maps API`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏢 ValuXpert — Property Valuation SaaS
+## 🏢 ValuXpert
 
-**Enterprise SaaS platform for banks and financial institutions**
+### Property Valuation SaaS Platform
 
-ValuXpert is a multi-company property valuation platform designed around the complete property valuation workflow.
+A multi-company SaaS platform designed for **banks and financial institutions** to manage property valuation workflows.
 
-### Key Features
+### Highlights
 
-* 🏦 Multi-company / multi-tenant architecture
-* 👥 Role-based access control
-* 📋 Case creation and assignment
-* 👨‍💻 Field Engineer workflows
-* 📍 GPS-based field tracking
-* 🗺️ Travel & activity tracking
-* 📊 Admin dashboards
-* 🧾 Invoice generation
-* 💰 Financial workflows
-* 👨‍💼 HRMS functionality
-* 📅 Attendance & leave management
-* 💵 Payroll management
-* 🔐 Authentication & authorization
-* 🔔 Notifications
-* 📱 PWA / mobile application support
+* 📋 Case creation & management
+* 👨‍💻 Field Engineer assignment
+* 🏠 Property visit workflow
+* 📍 GPS & travel tracking
+* 🗺️ Google Maps integration
+* 📊 Reports & approval workflow
+* 🧾 Invoice management
+* 👥 Role-based access
+* 🏢 Multi-company architecture
+* 💰 HRMS & payroll workflows
 
-### Case Workflow
+**Tech Stack**
 
-```text
-Case Creation
-     ↓
-Assign to Field Engineer
-     ↓
-Property Visit
-     ↓
-Report Preparation
-     ↓
-SDM / Draft Review
-     ↓
-Technical Approval
-     ↓
-RC / Final Processing
-     ↓
-Submitted to Bank
-```
-
-**Technologies:** React.js • Node.js • Express.js • MongoDB • REST APIs • Google Maps • Redis • PWA
+`React.js` `Node.js` `Express.js` `MongoDB` `Google Maps` `REST APIs`
 
 ---
 
-## 🏗️ Crane HRMS — Richi Crane Services
+## 🏗️ Crane HRMS
 
-A production HRMS and workforce management platform built for crane-service operations.
+### Employee & Workforce Management System
 
-### Modules
+A production HRMS built for **crane-service operations** to manage employees, attendance, payroll and workforce processes.
+
+### Highlights
 
 * 👨‍💼 Employee Management
 * ⏱️ Attendance
 * 📍 Punch In / Punch Out
-* 📸 Punch Location & Photo
 * 💰 Payroll
-* 💵 Salary Hold Rules
-* 🧾 Expenses
-* 💳 Advance Management
+* 💵 Advance & Expense Management
 * ⛽ Diesel / DEF Fuel Management
-* 👥 Roles & Permissions
-* 🏢 Departments
-* 📍 Serving Places
-* 📊 Dashboard
-* 🏦 Bank Reports
-* 📄 Payroll Reports
-* 🔐 Authentication
+* 👥 Roles & Departments
+* 📊 Dashboard & Reports
 
-### Technology
+**Tech Stack**
 
-**Next.js • TypeScript • Prisma • PostgreSQL • Supabase • Tailwind CSS • Shadcn/UI • Zod • Server Actions**
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `Tailwind CSS` `Shadcn/UI`
 
 🔗 **Live Project:** https://richi-crane.vercel.app/
 
@@ -200,26 +114,23 @@ A production HRMS and workforce management platform built for crane-service oper
 
 ## 🔎 Just Search
 
-### MERN Stack Real-Time Local Business Discovery Platform
+### Local Business Discovery Platform
 
-Just Search is a location-based platform that helps users discover local businesses and allows merchants to manage their business listings.
+A MERN-stack application for discovering and managing local businesses based on location and categories.
 
-### Features
+### Highlights
 
 * 📍 Location-based discovery
-* 🏪 Business listing
-* 🔎 Search & category filtering
+* 🔎 Business search
+* 🏪 Business registration
+* 👤 Authentication
+* 🔐 JWT & bcrypt
 * 🗺️ Location integration
-* 👤 User authentication
-* 🔐 JWT authentication
-* 🔒 Password hashing with bcrypt
-* 🏪 Merchant business management
-* 👨‍💼 Admin management
-* 📱 Responsive UI
+* 📱 Responsive interface
 
-### Technology
+**Tech Stack**
 
-**React.js • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • bcrypt**
+`React.js` `Vite` `Node.js` `Express.js` `MongoDB` `JWT`
 
 🔗 **Frontend:** https://just-search-frontend.vercel.app/
 
@@ -227,160 +138,64 @@ Just Search is a location-based platform that helps users discover local busines
 
 ---
 
-# 📍 Live GPS & Travel Tracking
+# 💼 Experience
 
-One of the major areas I've worked on is **real-time Field Engineer location and travel tracking**.
+## Karmyug Techzone
 
-The system handles:
+**Founder’s Office & Full Stack Developer**
 
-```text
-Punch-In
-   ↓
-Start GPS Tracking
-   ↓
-Capture Location Breadcrumbs
-   ↓
-Calculate Travel Distance
-   ↓
-Detect Stops / Movement
-   ↓
-Offline Queue
-   ↓
-Sync When Network Returns
-   ↓
-Punch-Out
-```
+Working on real-world production applications across frontend, backend and business logic.
 
-### Tracking capabilities
+### Responsibilities
 
-* 📍 High-accuracy GPS
-* 🛰️ Frequent location sampling
-* 🧭 Speed & heading
-* 📏 Haversine distance calculation
-* 🗺️ GPS breadcrumb trail
-* 📡 Offline location queue
-* 🔄 Background synchronization
-* 🧹 Duplicate location filtering
-* 🚫 Teleport / invalid GPS filtering
-* 📊 Travel distance calculation
-* 🔋 Wake Lock & visibility handling
-* 🌐 Network-aware synchronization
-
-I worked on making the tracking system behave more like a **production field-tracking system** instead of simply drawing a Google Maps route.
+* ⚛️ React.js & Next.js development
+* 🟢 Node.js & Express.js APIs
+* 🗄️ MongoDB & PostgreSQL
+* 🔐 Authentication & authorization
+* 📊 Dashboard development
+* 🏢 SaaS & business applications
+* 📍 GPS & location-based features
+* 🧾 Business workflows
+* 🐛 Debugging & production issue fixing
+* 🔄 API & database integration
 
 ---
 
-# 💻 Development Experience
+# 🎓 Education
 
-### Current Role
+### B.Tech — Information Technology
 
-**Founder’s Office & Full Stack Developer — Karmyug Techzone**
+**Srajan Institute of Technology and Management Science, Ratlam**
 
-My work involves developing and maintaining real-world software products, working across frontend, backend and business logic.
-
-```text
-Frontend
-React.js / Next.js
-       ↓
-API Layer
-Node.js / Express.js
-       ↓
-Business Logic
-       ↓
-Database
-MongoDB / PostgreSQL
-       ↓
-Production Application
-```
+📅 **Expected Graduation:** 2028
 
 ---
 
-# 🧠 Currently Learning
-
-I'm continuously expanding beyond traditional MERN development.
-
-### Current Learning Path
+# 🌱 Currently Learning
 
 ```text
 Full Stack Development
         ↓
-Advanced Backend
+Advanced Backend Development
         ↓
 System Design
         ↓
-Automation / n8n
+Automation & n8n
         ↓
 AI APIs
         ↓
 Generative AI
         ↓
-AI-powered Applications
+AI-Powered Applications
 ```
-
-Currently exploring:
-
-* 🤖 Generative AI
-* 🔄 n8n Automation
-* 🧠 AI APIs
-* 🔌 AI + Web Applications
-* 🏗️ Backend Architecture
-* 📦 Docker
-* ☁️ Deployment & Cloud
-* 🏛️ System Design
-
----
-
-# 📚 What I Like Building
-
-I'm particularly interested in software involving:
-
-* SaaS applications
-* Business management systems
-* HRMS
-* FinTech / workflow applications
-* Location-based applications
-* Automation
-* AI-powered applications
-* Dashboards
-* Real-time systems
-* Multi-tenant applications
-* Developer tools
-
----
-
-# 🎯 Career Goal
-
-My goal is to grow into a strong **Software Engineer / Full Stack Engineer** who can take a product from:
-
-```text
-Idea
- ↓
-Architecture
- ↓
-UI/UX
- ↓
-Frontend
- ↓
-Backend
- ↓
-Database
- ↓
-Testing
- ↓
-Deployment
- ↓
-Production
-```
-
-and build software that is **scalable, maintainable and useful in the real world.**
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawan-Chouhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Chouhan&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pawan-Chouhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Chouhan&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -399,65 +214,69 @@ and build software that is **scalable, maintainable and useful in the real world
 
 # 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pawan-Chouhan\&theme=react-dark\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan-Chouhan&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:pawanchouhan3101@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/pawan-chouhan">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Pawan-Chouhan">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/pawan_chouhan">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
+
+<a href="mailto:pawanchouhan3101@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/pawan-chouhan">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Pawan-Chouhan">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/pawan_chouhan">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+</a>
+
 </p>
 
 <p align="center">
-  📧 <b>Email:</b> pawanchouhan3101@gmail.com
-</p>
 
-<p align="center">
-  📍 Ratlam, Madhya Pradesh, India
+📧 <b>[pawanchouhan3101@gmail.com](mailto:pawanchouhan3101@gmail.com)</b>
+📍 <b>Ratlam, Madhya Pradesh, India</b>
+
 </p>
 
 ---
 
 # ⚡ Quick Facts
 
-```text
-👨‍💻 Full Stack Developer
-🎓 B.Tech IT — Expected 2028
-📍 Ratlam, Madhya Pradesh
-🏢 Karmyug Techzone
-⚛️ React.js / Next.js
-🟢 Node.js / Express.js
-🍃 MongoDB
-🐘 PostgreSQL
-🔐 JWT Authentication
-🗺️ GPS & Maps
-🏢 SaaS Applications
-🔄 Automation & AI — Learning
-```
+|                 |                                         |
+| --------------- | --------------------------------------- |
+| 👨‍💻 Role      | Full Stack Web Developer                |
+| 🎓 Education    | B.Tech IT                               |
+| 📅 Graduation   | 2028                                    |
+| 💼 Current Role | Founder’s Office & Full Stack Developer |
+| ⚛️ Frontend     | React.js, Next.js                       |
+| 🟢 Backend      | Node.js, Express.js                     |
+| 🗄️ Database    | MongoDB, PostgreSQL                     |
+| 🔐 Auth         | JWT                                     |
+| 🗺️ Other       | Google Maps, REST APIs                  |
+| 🌱 Learning     | Automation, n8n, Generative AI          |
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
 
-<p align="center">
-  <i>Building. Learning. Improving. One commit at a time.</i>
+### 🚀 Build • Improve • Grow
+
+<i>Building real-world software, one project at a time.</i>
+
 </p>
 
 <p align="center">
